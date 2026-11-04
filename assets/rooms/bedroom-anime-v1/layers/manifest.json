@@ -1,481 +1,570 @@
 {
-  "asset": "bedroom-anime-v1",
-  "canvas": [
-    1536,
-    864
-  ],
-  "source": {
-    "file": "../room-reference.png",
-    "sha256": "68e9becd0b7cb0af814d815a661b5a8c60f13148e81b63e97621fd8034de3bac"
+ "canvas": [
+  1536,
+  864
+ ],
+ "method": "SAM 3 concept prompts (text + hint box instance selection); forward z-claim gives every pixel to exactly one layer",
+ "source": "room-reference.png",
+ "objects": [
+  {
+   "z": 0,
+   "name": "cat",
+   "file": "00_cat.png",
+   "x": 1046,
+   "y": 606,
+   "w": 181,
+   "h": 105,
+   "visible_pixels": 14233,
+   "sam3_pixels": 14233,
+   "score": 0.9673,
+   "inside": 1.0,
+   "phrase": "cat",
+   "anchors": {
+    "bottom_center": [
+     1136,
+     711
+    ]
+   }
   },
-  "z_convention": "z=0 is closest to the camera; composite by painting z descending (room first, then 26 -> 0)",
-  "objects": [
-    {
-      "z": 0,
-      "name": "cat",
-      "file": "00_cat.png",
-      "x": 1048,
-      "y": 606,
-      "w": 179,
-      "h": 106,
-      "visible_pixels": 14132,
-      "anchors": {
-        "bottom_center": [
-          1137,
-          712
-        ]
-      }
-    },
-    {
-      "z": 1,
-      "name": "piano_bench",
-      "file": "01_piano_bench.png",
-      "x": 1155,
-      "y": 712,
-      "w": 249,
-      "h": 150,
-      "visible_pixels": 30359,
-      "anchors": {
-        "bottom_center": [
-          1279,
-          862
-        ]
-      }
-    },
-    {
-      "z": 2,
-      "name": "chair",
-      "file": "02_chair.png",
-      "x": 670,
-      "y": 410,
-      "w": 209,
-      "h": 242,
-      "visible_pixels": 25211,
-      "anchors": {
-        "bottom_center": [
-          774,
-          652
-        ]
-      }
-    },
-    {
-      "z": 3,
-      "name": "rug",
-      "file": "03_rug.png",
-      "x": 959,
-      "y": 619,
-      "w": 337,
-      "h": 185,
-      "visible_pixels": 26670,
-      "anchors": {
-        "bottom_center": [
-          1127,
-          804
-        ]
-      }
-    },
-    {
-      "z": 4,
-      "name": "piano",
-      "file": "04_piano.png",
-      "x": 1245,
-      "y": 478,
-      "w": 289,
-      "h": 322,
-      "visible_pixels": 58386,
-      "anchors": {
-        "bottom_center": [
-          1389,
-          800
-        ]
-      }
-    },
-    {
-      "z": 5,
-      "name": "stool",
-      "file": "05_stool.png",
-      "x": 1040,
-      "y": 458,
-      "w": 113,
-      "h": 168,
-      "visible_pixels": 8131,
-      "anchors": {
-        "bottom_center": [
-          1096,
-          626
-        ]
-      }
-    },
-    {
-      "z": 6,
-      "name": "rice_cooker",
-      "file": "06_rice_cooker.png",
-      "x": 1050,
-      "y": 372,
-      "w": 96,
-      "h": 101,
-      "visible_pixels": 7865,
-      "anchors": {
-        "bottom_center": [
-          1098,
-          473
-        ]
-      }
-    },
-    {
-      "z": 7,
-      "name": "bed",
-      "file": "07_bed.png",
-      "x": 136,
-      "y": 490,
-      "w": 529,
-      "h": 372,
-      "visible_pixels": 136609,
-      "anchors": {
-        "bottom_center": [
-          400,
-          862
-        ]
-      }
-    },
-    {
-      "z": 8,
-      "name": "plant_floor",
-      "file": "08_plant_floor.png",
-      "x": 1152,
-      "y": 430,
-      "w": 77,
-      "h": 123,
-      "visible_pixels": 6246,
-      "anchors": {
-        "bottom_center": [
-          1190,
-          553
-        ]
-      }
-    },
-    {
-      "z": 9,
-      "name": "microphone",
-      "file": "09_microphone.png",
-      "x": 577,
-      "y": 221,
-      "w": 212,
-      "h": 146,
-      "visible_pixels": 11130,
-      "anchors": {
-        "bottom_center": [
-          683,
-          367
-        ]
-      }
-    },
-    {
-      "z": 10,
-      "name": "monitor",
-      "file": "10_monitor.png",
-      "x": 841,
-      "y": 235,
-      "w": 175,
-      "h": 135,
-      "visible_pixels": 18490,
-      "anchors": {
-        "bottom_center": [
-          928,
-          370
-        ]
-      }
-    },
-    {
-      "z": 11,
-      "name": "desk_lamp",
-      "file": "11_desk_lamp.png",
-      "x": 1026,
-      "y": 224,
-      "w": 113,
-      "h": 142,
-      "visible_pixels": 4388,
-      "anchors": {
-        "bottom_center": [
-          1082,
-          366
-        ]
-      }
-    },
-    {
-      "z": 12,
-      "name": "computer_keyboard",
-      "file": "12_computer_keyboard.png",
-      "x": 831,
-      "y": 366,
-      "w": 116,
-      "h": 28,
-      "visible_pixels": 1967,
-      "anchors": {
-        "bottom_center": [
-          889,
-          394
-        ]
-      }
-    },
-    {
-      "z": 13,
-      "name": "sketchbook",
-      "file": "13_sketchbook.png",
-      "x": 682,
-      "y": 374,
-      "w": 140,
-      "h": 39,
-      "visible_pixels": 4469,
-      "anchors": {
-        "bottom_center": [
-          752,
-          413
-        ]
-      }
-    },
-    {
-      "z": 14,
-      "name": "mp3_player",
-      "file": "14_mp3_player.png",
-      "x": 593,
-      "y": 358,
-      "w": 76,
-      "h": 61,
-      "visible_pixels": 2653,
-      "anchors": {
-        "bottom_center": [
-          631,
-          419
-        ]
-      }
-    },
-    {
-      "z": 15,
-      "name": "phone",
-      "file": "15_phone.png",
-      "x": 836,
-      "y": 397,
-      "w": 32,
-      "h": 20,
-      "visible_pixels": 502,
-      "anchors": {
-        "bottom_center": [
-          852,
-          417
-        ]
-      }
-    },
-    {
-      "z": 16,
-      "name": "phone_black",
-      "file": "16_phone_black.png",
-      "x": 512,
-      "y": 388,
-      "w": 47,
-      "h": 26,
-      "visible_pixels": 759,
-      "anchors": {
-        "bottom_center": [
-          535,
-          414
-        ]
-      }
-    },
-    {
-      "z": 17,
-      "name": "mug",
-      "file": "17_mug.png",
-      "x": 961,
-      "y": 361,
-      "w": 39,
-      "h": 44,
-      "visible_pixels": 1369,
-      "anchors": {
-        "bottom_center": [
-          980,
-          405
-        ]
-      }
-    },
-    {
-      "z": 18,
-      "name": "plant_desk",
-      "file": "18_plant_desk.png",
-      "x": 526,
-      "y": 259,
-      "w": 72,
-      "h": 87,
-      "visible_pixels": 3701,
-      "anchors": {
-        "bottom_center": [
-          562,
-          346
-        ]
-      }
-    },
-    {
-      "z": 19,
-      "name": "tv",
-      "file": "19_tv.png",
-      "x": 2,
-      "y": 379,
-      "w": 118,
-      "h": 251,
-      "visible_pixels": 23196,
-      "anchors": {
-        "bottom_center": [
-          61,
-          630
-        ]
-      }
-    },
-    {
-      "z": 20,
-      "name": "game_console",
-      "file": "20_game_console.png",
-      "x": 8,
-      "y": 514,
-      "w": 213,
-      "h": 139,
-      "visible_pixels": 11229,
-      "anchors": {
-        "bottom_center": [
-          114,
-          653
-        ]
-      }
-    },
-    {
-      "z": 21,
-      "name": "desk",
-      "file": "21_desk.png",
-      "x": 455,
-      "y": 348,
-      "w": 706,
-      "h": 106,
-      "visible_pixels": 46742,
-      "anchors": {
-        "bottom_center": [
-          808,
-          454
-        ]
-      }
-    },
-    {
-      "z": 22,
-      "name": "bedside_cabinet",
-      "file": "22_bedside_cabinet.png",
-      "x": 2,
-      "y": 493,
-      "w": 313,
-      "h": 369,
-      "visible_pixels": 44645,
-      "anchors": {
-        "bottom_center": [
-          158,
-          862
-        ]
-      }
-    },
-    {
-      "z": 23,
-      "name": "bookshelf",
-      "file": "23_bookshelf.png",
-      "x": 1228,
-      "y": 0,
-      "w": 235,
-      "h": 864,
-      "visible_pixels": 127598,
-      "anchors": {
-        "bottom_center": [
-          1345,
-          864
-        ]
-      }
-    },
-    {
-      "z": 24,
-      "name": "easel",
-      "file": "24_easel.png",
-      "x": 302,
-      "y": 213,
-      "w": 156,
-      "h": 301,
-      "visible_pixels": 22768,
-      "anchors": {
-        "bottom_center": [
-          380,
-          514
-        ]
-      }
-    },
-    {
-      "z": 25,
-      "name": "plant_left",
-      "file": "25_plant_left.png",
-      "x": 159,
-      "y": 2,
-      "w": 271,
-      "h": 258,
-      "visible_pixels": 37020,
-      "anchors": {
-        "bottom_center": [
-          294,
-          260
-        ]
-      }
-    },
-    {
-      "z": 26,
-      "name": "plant_right",
-      "file": "26_plant_right.png",
-      "x": 1108,
-      "y": 2,
-      "w": 118,
-      "h": 261,
-      "visible_pixels": 16970,
-      "anchors": {
-        "bottom_center": [
-          1167,
-          263
-        ]
-      }
-    }
-  ],
-  "files": {
-    "00_cat.png": "406715bffac5f80a4d72b6d1be28a7357370cdb84e1cd92193b9ce8a9db72b43",
-    "01_piano_bench.png": "86e020ca2f131bbf19db0b821ee52bc6bc9ad4ce2f2aa3a110d28407245880d2",
-    "02_chair.png": "d32b06edbae902e4c3c99b2411b86c45ff9c1cb1f2c592b46fb30998f948b3b5",
-    "03_rug.png": "4670d2b60c6c32939d2647c8a9f0ef6b3f8f638e4295557debb094bf83ebb09b",
-    "04_piano.png": "cb710bb598983f3ba1a33f81a50f6e49ca87073180c0d9ac418dfa66d6d0a3e1",
-    "05_stool.png": "eedeeeffd02db50f5cc3e64082581494927a9b27730161e9c0e695451409b530",
-    "06_rice_cooker.png": "92008cf19667acf056b87819ee69a11300474857312632c76663b28214047317",
-    "07_bed.png": "ebc1d440e762a261411cb35f7ec3d6f5aed3810ed4d413a11fdf3b2d3a0e4a9f",
-    "08_plant_floor.png": "45403123b56182a4dc392ba94d888793ebbefc156b7acc18c3acd42a93417286",
-    "09_microphone.png": "b945632259f0c5dd7123cfd4409aabd2bc8b9a40bab753fb4c383bd5c85d9686",
-    "10_monitor.png": "3fb4fea93157089b961fe15031d7df9b22fe3f6dd44c0686450c086b621eb511",
-    "11_desk_lamp.png": "c3b4acb06bfaa1095dda297dd6ff0838f6a372ba9a5db5ecd2837e5527f94d85",
-    "12_computer_keyboard.png": "b35c281813fe5a9984cf9f1103ca4c2d9a89a5a600543593fd0257b065ae7deb",
-    "13_sketchbook.png": "03dc54794a6795299e5a63e298ff68035427c20f2ecfc65af4bf41df5f6af7aa",
-    "14_mp3_player.png": "a3e4e5f42b25e1e2b150a00807797adc5e1a30e00e399227ffc2d79f3d90a4b0",
-    "15_phone.png": "df9ea1f0686f5b6084310431a25a4d14ed46205d193da5ae71e4ace779e9b8a2",
-    "16_phone_black.png": "2939a88fc8b3401589c3b59b1cae0990f811ff4b7418edc61401da489788ce13",
-    "17_mug.png": "c7587e7a80ed54823e9a3f607fdbf63969540a9f2a52fd5e21b9ede411a7c9f0",
-    "18_plant_desk.png": "524775944196d319fa77c11759181fa7f93afbad2d54fabb3e556ae7c09ec603",
-    "19_tv.png": "1662481404ab03f5d3ec8fff164daa0f6ee3e9bcc049e288bf828c22724269d9",
-    "20_game_console.png": "484e642d0ad74eba5497c6c6bb9a042ea2420980eaf038b09050cb13d91e3d15",
-    "21_desk.png": "52bc5a2a55bb43f57b65f27eb1cc93dbf62cda333e4e2798bcbdbc55784d259b",
-    "22_bedside_cabinet.png": "ced75b156c4d7e7e336d91c232748c1b174cf8dcc936e40964ec918d5c256531",
-    "23_bookshelf.png": "fdbf027e29b247950cc4739dc8c6a0563765f5f37567df57f474360ed12a9458",
-    "24_easel.png": "ec27aa9f2eec2e94855f5d4a4434e14aa924c753cf4760459112a68ef2e637da",
-    "25_plant_left.png": "497ec0ae249e51db43c14b5acc6c5b5a902176cb0591a6b0c20dddee308d62a0",
-    "26_plant_right.png": "b973ff602461f81c9b90e8c7ab4240fd4cdf89aae599694a37df359983c1ad83",
-    "room.png": "64baa27a2025298ce757dd79c2b3077047d5cb61c5a5900ee7603c9a6e5346be"
+  {
+   "z": 1,
+   "name": "piano_bench",
+   "file": "01_piano_bench.png",
+   "x": 1154,
+   "y": 711,
+   "w": 249,
+   "h": 135,
+   "visible_pixels": 29456,
+   "sam3_pixels": 29456,
+   "score": 0.9648,
+   "inside": 1.0,
+   "phrase": "stool",
+   "anchors": {
+    "bottom_center": [
+     1278,
+     846
+    ]
+   }
   },
-  "verification": {
-    "coverage": 1.0,
-    "recomposite_exact": true,
-    "method": "SAM2.1-hiera-large box+point prompts, part unions, hand polygons for desk/bookshelf, forward z-claim so every pixel belongs to exactly one layer"
+  {
+   "z": 2,
+   "name": "chair",
+   "file": "02_chair.png",
+   "x": 668,
+   "y": 411,
+   "w": 212,
+   "h": 240,
+   "visible_pixels": 29667,
+   "sam3_pixels": 29667,
+   "score": 0.9785,
+   "inside": 1.0,
+   "phrase": "chair",
+   "anchors": {
+    "bottom_center": [
+     774,
+     651
+    ]
+   }
+  },
+  {
+   "z": 3,
+   "name": "rug",
+   "file": "03_rug.png",
+   "x": 960,
+   "y": 620,
+   "w": 336,
+   "h": 184,
+   "visible_pixels": 27772,
+   "sam3_pixels": 46245,
+   "score": 0.9673,
+   "inside": 1.0,
+   "phrase": "rug",
+   "anchors": {
+    "bottom_center": [
+     1128,
+     804
+    ]
+   }
+  },
+  {
+   "z": 4,
+   "name": "piano",
+   "file": "04_piano.png",
+   "x": 1244,
+   "y": 478,
+   "w": 265,
+   "h": 321,
+   "visible_pixels": 46214,
+   "sam3_pixels": 46214,
+   "score": 0.6953,
+   "inside": 1.0,
+   "phrase": "electronic keyboard",
+   "anchors": {
+    "bottom_center": [
+     1376,
+     799
+    ]
+   }
+  },
+  {
+   "z": 5,
+   "name": "stool",
+   "file": "05_stool.png",
+   "x": 1040,
+   "y": 458,
+   "w": 112,
+   "h": 166,
+   "visible_pixels": 10965,
+   "sam3_pixels": 10995,
+   "score": 0.9653,
+   "inside": 1.0,
+   "phrase": "stool",
+   "anchors": {
+    "bottom_center": [
+     1096,
+     624
+    ]
+   }
+  },
+  {
+   "z": 6,
+   "name": "rice_cooker",
+   "file": "06_rice_cooker.png",
+   "x": 1051,
+   "y": 372,
+   "w": 96,
+   "h": 102,
+   "visible_pixels": 7985,
+   "sam3_pixels": 8009,
+   "score": 0.9639,
+   "inside": 1.0,
+   "phrase": "rice cooker",
+   "anchors": {
+    "bottom_center": [
+     1099,
+     474
+    ]
+   }
+  },
+  {
+   "z": 7,
+   "name": "bed",
+   "file": "07_bed.png",
+   "x": 76,
+   "y": 491,
+   "w": 581,
+   "h": 333,
+   "visible_pixels": 152485,
+   "sam3_pixels": 152485,
+   "score": 0.8989,
+   "inside": 1.0,
+   "phrase": "bed",
+   "anchors": {
+    "bottom_center": [
+     366,
+     824
+    ]
+   }
+  },
+  {
+   "z": 8,
+   "name": "plant_floor",
+   "file": "08_plant_floor.png",
+   "x": 1148,
+   "y": 431,
+   "w": 80,
+   "h": 120,
+   "visible_pixels": 6575,
+   "sam3_pixels": 6575,
+   "score": 0.729,
+   "inside": 1.0,
+   "phrase": "potted plant",
+   "anchors": {
+    "bottom_center": [
+     1188,
+     551
+    ]
+   }
+  },
+  {
+   "z": 9,
+   "name": "microphone",
+   "file": "09_microphone.png",
+   "x": 711,
+   "y": 222,
+   "w": 35,
+   "h": 90,
+   "visible_pixels": 2114,
+   "sam3_pixels": 2114,
+   "score": 0.8286,
+   "inside": 1.0,
+   "phrase": "microphone",
+   "anchors": {
+    "bottom_center": [
+     728,
+     312
+    ]
+   }
+  },
+  {
+   "z": 10,
+   "name": "monitor",
+   "file": "10_monitor.png",
+   "x": 841,
+   "y": 234,
+   "w": 177,
+   "h": 144,
+   "visible_pixels": 19978,
+   "sam3_pixels": 19978,
+   "score": 0.9585,
+   "inside": 1.0,
+   "phrase": "monitor",
+   "anchors": {
+    "bottom_center": [
+     929,
+     378
+    ]
+   }
+  },
+  {
+   "z": 11,
+   "name": "desk_lamp",
+   "file": "11_desk_lamp.png",
+   "x": 1024,
+   "y": 225,
+   "w": 117,
+   "h": 150,
+   "visible_pixels": 4940,
+   "sam3_pixels": 4940,
+   "score": 0.9434,
+   "inside": 1.0,
+   "phrase": "lamp",
+   "anchors": {
+    "bottom_center": [
+     1082,
+     375
+    ]
+   }
+  },
+  {
+   "z": 12,
+   "name": "computer_keyboard",
+   "file": "12_computer_keyboard.png",
+   "x": 832,
+   "y": 366,
+   "w": 113,
+   "h": 27,
+   "visible_pixels": 1978,
+   "sam3_pixels": 1979,
+   "score": 0.9238,
+   "inside": 1.0,
+   "phrase": "keyboard",
+   "anchors": {
+    "bottom_center": [
+     888,
+     393
+    ]
+   }
+  },
+  {
+   "z": 13,
+   "name": "sketchbook",
+   "file": "13_sketchbook.png",
+   "x": 683,
+   "y": 375,
+   "w": 138,
+   "h": 39,
+   "visible_pixels": 4569,
+   "sam3_pixels": 4569,
+   "score": 0.9155,
+   "inside": 1.0,
+   "phrase": "book",
+   "anchors": {
+    "bottom_center": [
+     752,
+     414
+    ]
+   }
+  },
+  {
+   "z": 14,
+   "name": "mp3_player",
+   "file": "14_mp3_player.png",
+   "x": 619,
+   "y": 357,
+   "w": 32,
+   "h": 45,
+   "visible_pixels": 1212,
+   "sam3_pixels": 1212,
+   "score": 0.543,
+   "inside": 1.0,
+   "phrase": "speaker",
+   "anchors": {
+    "bottom_center": [
+     635,
+     402
+    ]
+   }
+  },
+  {
+   "z": 15,
+   "name": "phone",
+   "file": "15_phone.png",
+   "x": 837,
+   "y": 399,
+   "w": 32,
+   "h": 18,
+   "visible_pixels": 481,
+   "sam3_pixels": 481,
+   "score": 0.8975,
+   "inside": 1.0,
+   "phrase": "phone",
+   "anchors": {
+    "bottom_center": [
+     853,
+     417
+    ]
+   }
+  },
+  {
+   "z": 16,
+   "name": "phone_black",
+   "file": "16_phone_black.png",
+   "x": 512,
+   "y": 389,
+   "w": 48,
+   "h": 25,
+   "visible_pixels": 751,
+   "sam3_pixels": 751,
+   "score": 0.8975,
+   "inside": 1.0,
+   "phrase": "phone",
+   "anchors": {
+    "bottom_center": [
+     536,
+     414
+    ]
+   }
+  },
+  {
+   "z": 17,
+   "name": "mug",
+   "file": "17_mug.png",
+   "x": 960,
+   "y": 360,
+   "w": 43,
+   "h": 45,
+   "visible_pixels": 1588,
+   "sam3_pixels": 1599,
+   "score": 0.9067,
+   "inside": 1.0,
+   "phrase": "mug",
+   "anchors": {
+    "bottom_center": [
+     981,
+     405
+    ]
+   }
+  },
+  {
+   "z": 18,
+   "name": "plant_desk",
+   "file": "18_plant_desk.png",
+   "x": 1024,
+   "y": 324,
+   "w": 37,
+   "h": 60,
+   "visible_pixels": 1862,
+   "sam3_pixels": 1862,
+   "score": 0.8926,
+   "inside": 1.0,
+   "phrase": "potted plant",
+   "anchors": {
+    "bottom_center": [
+     1042,
+     384
+    ]
+   }
+  },
+  {
+   "z": 19,
+   "name": "tv",
+   "file": "19_tv.png",
+   "x": 16,
+   "y": 378,
+   "w": 106,
+   "h": 247,
+   "visible_pixels": 20767,
+   "sam3_pixels": 20767,
+   "score": 0.9541,
+   "inside": 1.0,
+   "phrase": "television",
+   "anchors": {
+    "bottom_center": [
+     69,
+     625
+    ]
+   }
+  },
+  {
+   "z": 20,
+   "name": "game_console",
+   "file": "20_game_console.png",
+   "x": 16,
+   "y": 513,
+   "w": 205,
+   "h": 139,
+   "visible_pixels": 11607,
+   "sam3_pixels": 11608,
+   "score": 0.8691,
+   "inside": 1.0,
+   "phrase": "union",
+   "anchors": {
+    "bottom_center": [
+     118,
+     652
+    ]
+   }
+  },
+  {
+   "z": 21,
+   "name": "desk",
+   "file": "21_desk.png",
+   "x": 469,
+   "y": 354,
+   "w": 586,
+   "h": 256,
+   "visible_pixels": 30676,
+   "sam3_pixels": 36221,
+   "score": 0.8799,
+   "inside": 1.0,
+   "phrase": "desk",
+   "anchors": {
+    "bottom_center": [
+     762,
+     610
+    ]
+   }
+  },
+  {
+   "z": 22,
+   "name": "bedside_cabinet",
+   "file": "22_bedside_cabinet.png",
+   "x": 31,
+   "y": 498,
+   "w": 278,
+   "h": 335,
+   "visible_pixels": 24934,
+   "sam3_pixels": 44062,
+   "score": 0.2971,
+   "inside": 1.0,
+   "phrase": "bookcase",
+   "anchors": {
+    "bottom_center": [
+     170,
+     833
+    ]
+   }
+  },
+  {
+   "z": 23,
+   "name": "bookshelf",
+   "file": "23_bookshelf.png",
+   "x": 1228,
+   "y": 64,
+   "w": 233,
+   "h": 644,
+   "visible_pixels": 93328,
+   "sam3_pixels": 93507,
+   "score": 0.8755,
+   "inside": 1.0,
+   "phrase": "bookcase",
+   "anchors": {
+    "bottom_center": [
+     1344,
+     708
+    ]
+   }
+  },
+  {
+   "z": 24,
+   "name": "easel",
+   "file": "24_easel.png",
+   "x": 299,
+   "y": 213,
+   "w": 160,
+   "h": 303,
+   "visible_pixels": 15036,
+   "sam3_pixels": 16811,
+   "score": 0.9482,
+   "inside": 1.0,
+   "phrase": "easel",
+   "anchors": {
+    "bottom_center": [
+     379,
+     516
+    ]
+   }
+  },
+  {
+   "z": 25,
+   "name": "easel_painting",
+   "file": "25_easel_painting.png",
+   "x": 308,
+   "y": 285,
+   "w": 124,
+   "h": 168,
+   "visible_pixels": 12911,
+   "sam3_pixels": 13376,
+   "score": 0.8984,
+   "inside": 1.0,
+   "phrase": "framed painting",
+   "anchors": {
+    "bottom_center": [
+     370,
+     453
+    ]
+   }
+  },
+  {
+   "z": 26,
+   "name": "plant_left",
+   "file": "26_plant_left.png",
+   "x": 160,
+   "y": 21,
+   "w": 134,
+   "h": 210,
+   "visible_pixels": 14312,
+   "sam3_pixels": 14312,
+   "score": 0.2262,
+   "inside": 1.0,
+   "phrase": "hanging plant",
+   "anchors": {
+    "bottom_center": [
+     227,
+     231
+    ]
+   }
+  },
+  {
+   "z": 27,
+   "name": "plant_right",
+   "file": "27_plant_right.png",
+   "x": 1109,
+   "y": 24,
+   "w": 118,
+   "h": 240,
+   "visible_pixels": 17474,
+   "sam3_pixels": 17474,
+   "score": 0.8228,
+   "inside": 1.0,
+   "phrase": "potted plant",
+   "anchors": {
+    "bottom_center": [
+     1168,
+     264
+    ]
+   }
   }
+ ]
 }
