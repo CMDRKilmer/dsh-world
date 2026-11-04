@@ -1,0 +1,330 @@
+{
+ "shell_median": 210.9,
+ "warm": 0.03,
+ "sat_pull": 0.5,
+ "band": [
+  0.4,
+  1.0
+ ],
+ "objects": [
+  {
+   "name": "basket",
+   "v1_ref": 57.8,
+   "target": 119.1,
+   "before": 128.5,
+   "after": 120.5,
+   "gamma": 1.111,
+   "sat_before": 0.636,
+   "sat_after": 0.623,
+   "clipped": 0.0
+  },
+  {
+   "name": "bed",
+   "v1_ref": 86.6,
+   "target": 136.4,
+   "before": 154.6,
+   "after": 137.5,
+   "gamma": 1.25,
+   "sat_before": 0.444,
+   "sat_after": 0.522,
+   "clipped": 0.0
+  },
+  {
+   "name": "bookshelf",
+   "v1_ref": 41.2,
+   "target": 109.1,
+   "before": 109.1,
+   "after": 109.6,
+   "gamma": 1.0,
+   "sat_before": 0.528,
+   "sat_after": 0.524,
+   "clipped": 0.0
+  },
+  {
+   "name": "cabinet",
+   "v1_ref": 75.9,
+   "target": 130.0,
+   "before": 106.2,
+   "after": 129.2,
+   "gamma": 0.77,
+   "sat_before": 0.756,
+   "sat_after": 0.609,
+   "clipped": 0.0
+  },
+  {
+   "name": "cat",
+   "v1_ref": 51.7,
+   "target": 115.4,
+   "before": 137.1,
+   "after": 116.8,
+   "gamma": 1.277,
+   "sat_before": 0.369,
+   "sat_after": 0.483,
+   "clipped": 0.0
+  },
+  {
+   "name": "chair",
+   "v1_ref": 22.0,
+   "target": 97.6,
+   "before": 81.7,
+   "after": 97.5,
+   "gamma": 0.844,
+   "sat_before": 0.425,
+   "sat_after": 0.444,
+   "clipped": 0.0
+  },
+  {
+   "name": "controller",
+   "v1_ref": 57.8,
+   "target": 119.1,
+   "before": 234.7,
+   "after": 121.3,
+   "gamma": 9.196,
+   "sat_before": 0.109,
+   "sat_after": 0.389,
+   "clipped": 0.0
+  },
+  {
+   "name": "desk",
+   "v1_ref": 83.2,
+   "target": 134.4,
+   "before": 87.6,
+   "after": 129.9,
+   "gamma": 0.6,
+   "sat_before": 0.895,
+   "sat_after": 0.666,
+   "clipped": 0.0
+  },
+  {
+   "name": "desk_lamp",
+   "v1_ref": 79.6,
+   "target": 132.2,
+   "before": 96.4,
+   "after": 130.3,
+   "gamma": 0.676,
+   "sat_before": 0.733,
+   "sat_after": 0.584,
+   "clipped": 0.0
+  },
+  {
+   "name": "easel",
+   "v1_ref": 62.5,
+   "target": 121.9,
+   "before": 194.7,
+   "after": 127.1,
+   "gamma": 2.734,
+   "sat_before": 0.516,
+   "sat_after": 0.71,
+   "clipped": 0.0
+  },
+  {
+   "name": "easel_painting",
+   "v1_ref": 170.2,
+   "target": 186.7,
+   "before": 159.2,
+   "after": 186.8,
+   "gamma": 0.662,
+   "sat_before": 0.307,
+   "sat_after": 0.318,
+   "clipped": 0.0
+  },
+  {
+   "name": "game_console",
+   "v1_ref": 48.3,
+   "target": 113.4,
+   "before": 233.7,
+   "after": 113.9,
+   "gamma": 9.302,
+   "sat_before": 0.031,
+   "sat_after": 0.305,
+   "clipped": 0.0
+  },
+  {
+   "name": "keyboard",
+   "v1_ref": 36.5,
+   "target": 106.3,
+   "before": 86.5,
+   "after": 106.0,
+   "gamma": 0.81,
+   "sat_before": 0.197,
+   "sat_after": 0.277,
+   "clipped": 0.0
+  },
+  {
+   "name": "microphone",
+   "v1_ref": 58.9,
+   "target": 119.8,
+   "before": 28.8,
+   "after": 119.9,
+   "gamma": 0.347,
+   "sat_before": 0.412,
+   "sat_after": 0.364,
+   "clipped": 0.0
+  },
+  {
+   "name": "monitor",
+   "v1_ref": 28.8,
+   "target": 101.7,
+   "before": 121.4,
+   "after": 103.6,
+   "gamma": 1.239,
+   "sat_before": 0.571,
+   "sat_after": 0.564,
+   "clipped": 0.0
+  },
+  {
+   "name": "mouse",
+   "v1_ref": 57.8,
+   "target": 119.1,
+   "before": 137.1,
+   "after": 120.6,
+   "gamma": 1.226,
+   "sat_before": 0.453,
+   "sat_after": 0.529,
+   "clipped": 0.0
+  },
+  {
+   "name": "mp3_player",
+   "v1_ref": 39.5,
+   "target": 108.1,
+   "before": 220.7,
+   "after": 108.8,
+   "gamma": 5.95,
+   "sat_before": 0.146,
+   "sat_after": 0.248,
+   "clipped": 0.0
+  },
+  {
+   "name": "mug",
+   "v1_ref": 119.1,
+   "target": 156.0,
+   "before": 154.1,
+   "after": 156.9,
+   "gamma": 0.976,
+   "sat_before": 0.31,
+   "sat_after": 0.398,
+   "clipped": 0.0
+  },
+  {
+   "name": "office_chair",
+   "v1_ref": 22.0,
+   "target": 97.6,
+   "before": 101.7,
+   "after": 98.5,
+   "gamma": 1.045,
+   "sat_before": 0.51,
+   "sat_after": 0.54,
+   "clipped": 0.0
+  },
+  {
+   "name": "phone",
+   "v1_ref": 56.8,
+   "target": 118.5,
+   "before": 26.8,
+   "after": 118.2,
+   "gamma": 0.34,
+   "sat_before": 0.417,
+   "sat_after": 0.262,
+   "clipped": 0.0
+  },
+  {
+   "name": "piano",
+   "v1_ref": 32.2,
+   "target": 103.7,
+   "before": 24.7,
+   "after": 103.7,
+   "gamma": 0.386,
+   "sat_before": 0.273,
+   "sat_after": 0.268,
+   "clipped": 0.0
+  },
+  {
+   "name": "piano_bench",
+   "v1_ref": 33.0,
+   "target": 104.2,
+   "before": 83.1,
+   "after": 103.0,
+   "gamma": 0.798,
+   "sat_before": 0.788,
+   "sat_after": 0.644,
+   "clipped": 0.0
+  },
+  {
+   "name": "plant_hanging",
+   "v1_ref": 45.2,
+   "target": 111.5,
+   "before": 113.9,
+   "after": 112.0,
+   "gamma": 1.026,
+   "sat_before": 0.645,
+   "sat_after": 0.595,
+   "clipped": 0.0
+  },
+  {
+   "name": "plant_pot",
+   "v1_ref": 41.5,
+   "target": 109.3,
+   "before": 126.1,
+   "after": 112.7,
+   "gamma": 1.203,
+   "sat_before": 0.767,
+   "sat_after": 0.728,
+   "clipped": 0.0
+  },
+  {
+   "name": "rice_cooker",
+   "v1_ref": 80.2,
+   "target": 132.6,
+   "before": 233.0,
+   "after": 134.4,
+   "gamma": 7.247,
+   "sat_before": 0.055,
+   "sat_after": 0.37,
+   "clipped": 0.0
+  },
+  {
+   "name": "rug",
+   "v1_ref": 82.9,
+   "target": 134.2,
+   "before": 134.1,
+   "after": 134.9,
+   "gamma": 0.999,
+   "sat_before": 0.53,
+   "sat_after": 0.539,
+   "clipped": 0.0
+  },
+  {
+   "name": "side_table",
+   "v1_ref": 57.8,
+   "target": 119.1,
+   "before": 124.9,
+   "after": 120.5,
+   "gamma": 1.067,
+   "sat_before": 0.772,
+   "sat_after": 0.697,
+   "clipped": 0.0
+  },
+  {
+   "name": "sketchbook",
+   "v1_ref": 210.4,
+   "target": 210.9,
+   "before": 234.0,
+   "after": 212.9,
+   "gamma": 2.211,
+   "sat_before": 0.228,
+   "sat_after": 0.464,
+   "clipped": 0.0
+  },
+  {
+   "name": "tv",
+   "v1_ref": 21.8,
+   "target": 97.4,
+   "before": 13.3,
+   "after": 96.0,
+   "gamma": 0.326,
+   "sat_before": 0.58,
+   "sat_after": 0.317,
+   "clipped": 0.0
+  }
+ ]
+}

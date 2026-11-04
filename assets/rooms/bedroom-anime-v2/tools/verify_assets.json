@@ -1,0 +1,282 @@
+[
+ {
+  "name": "bed",
+  "own_phrase": "bed",
+  "scores": {
+   "bed": 0.963,
+   "sofa": 0.0,
+   "table": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "desk",
+  "own_phrase": "desk",
+  "scores": {
+   "desk": 0.978,
+   "table": 0.976,
+   "bed": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "office_chair",
+  "own_phrase": "office chair",
+  "scores": {
+   "office chair": 0.986,
+   "chair": 0.983,
+   "stool": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "monitor",
+  "own_phrase": "monitor",
+  "scores": {
+   "monitor": 0.851,
+   "television": 0.952,
+   "window": 0.0
+  },
+  "pass_": false
+ },
+ {
+  "name": "keyboard",
+  "own_phrase": "keyboard",
+  "scores": {
+   "keyboard": 0.979,
+   "piano": 0.0,
+   "book": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "mouse",
+  "own_phrase": "computer mouse",
+  "scores": {
+   "computer mouse": 0.839,
+   "phone": 0.0,
+   "stone": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "microphone",
+  "own_phrase": "microphone",
+  "scores": {
+   "microphone": 0.673,
+   "lamp": 0.0,
+   "plant": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "mp3_player",
+  "own_phrase": "mp3 player",
+  "scores": {
+   "mp3 player": 0.928,
+   "phone": 0.605,
+   "soap": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "phone",
+  "own_phrase": "smartphone",
+  "scores": {
+   "smartphone": 0.98,
+   "remote control": 0.0,
+   "notebook": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "mug",
+  "own_phrase": "mug",
+  "scores": {
+   "mug": 0.967,
+   "bowl": 0.0,
+   "pot": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "desk_lamp",
+  "own_phrase": "desk lamp",
+  "scores": {
+   "desk lamp": 0.968,
+   "microphone": 0.0,
+   "plant": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "sketchbook",
+  "own_phrase": "open book",
+  "scores": {
+   "open book": 0.931,
+   "notebook": 0.974,
+   "tray": 0.0
+  },
+  "pass_": false
+ },
+ {
+  "name": "bookshelf",
+  "own_phrase": "bookshelf",
+  "scores": {
+   "bookshelf": 0.972,
+   "cabinet": 0.573,
+   "door": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "piano",
+  "own_phrase": "electronic keyboard",
+  "scores": {
+   "electronic keyboard": 0.947,
+   "piano": 0.79,
+   "desk": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "piano_bench",
+  "own_phrase": "bench",
+  "scores": {
+   "bench": 0.83,
+   "stool": 0.979,
+   "table": 0.865
+  },
+  "pass_": false
+ },
+ {
+  "name": "easel",
+  "own_phrase": "easel",
+  "scores": {
+   "easel": 0.975,
+   "tripod": 0.0,
+   "ladder": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "easel_painting",
+  "own_phrase": "painting",
+  "scores": {
+   "painting": 0.897,
+   "canvas": 0.879,
+   "poster": 0.257
+  },
+  "pass_": true
+ },
+ {
+  "name": "rice_cooker",
+  "own_phrase": "rice cooker",
+  "scores": {
+   "rice cooker": 0.989,
+   "kettle": 0.0,
+   "pot": 0.541
+  },
+  "pass_": true
+ },
+ {
+  "name": "side_table",
+  "own_phrase": "side table",
+  "scores": {
+   "side table": 0.619,
+   "stool": 0.0,
+   "chair": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "game_console",
+  "own_phrase": "game console",
+  "scores": {
+   "game console": 0.245,
+   "router": 0.969,
+   "box": 0.378
+  },
+  "pass_": false
+ },
+ {
+  "name": "controller",
+  "own_phrase": "game controller",
+  "scores": {
+   "game controller": 0.974,
+   "gamepad": 0.969,
+   "phone": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "tv",
+  "own_phrase": "television",
+  "scores": {
+   "television": 0.966,
+   "monitor": 0.882,
+   "picture frame": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "cabinet",
+  "own_phrase": "cabinet",
+  "scores": {
+   "cabinet": 0.972,
+   "drawer": 0.336,
+   "box": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "rug",
+  "own_phrase": "rug",
+  "scores": {
+   "rug": 0.901,
+   "carpet": 0.534,
+   "mat": 0.398
+  },
+  "pass_": true
+ },
+ {
+  "name": "plant_pot",
+  "own_phrase": "potted plant",
+  "scores": {
+   "potted plant": 0.96,
+   "plant": 0.956,
+   "tree": 0.0
+  },
+  "pass_": true
+ },
+ {
+  "name": "plant_hanging",
+  "own_phrase": "hanging plant",
+  "scores": {
+   "hanging plant": 0.794,
+   "plant": 0.913,
+   "vine": 0.708
+  },
+  "pass_": false
+ },
+ {
+  "name": "basket",
+  "own_phrase": "basket",
+  "scores": {
+   "basket": 0.983,
+   "bowl": 0.0,
+   "bag": 0.887
+  },
+  "pass_": true
+ },
+ {
+  "name": "cat",
+  "own_phrase": "cat",
+  "scores": {
+   "cat": 0.974,
+   "cushion": 0.0,
+   "bread": 0.0
+  },
+  "pass_": true
+ }
+]

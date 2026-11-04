@@ -1,0 +1,184 @@
+{
+ "cat": {
+  "v1_name": "cat",
+  "obj": 51.7,
+  "bg": 63.3,
+  "ratio": 0.816,
+  "pixels": 14233
+ },
+ "piano_bench": {
+  "v1_name": "stool",
+  "obj": 33.0,
+  "bg": 47.0,
+  "ratio": 0.703,
+  "pixels": 10965
+ },
+ "office_chair": {
+  "v1_name": "chair",
+  "obj": 22.0,
+  "bg": 62.0,
+  "ratio": 0.355,
+  "pixels": 29667
+ },
+ "rug": {
+  "v1_name": "rug",
+  "obj": 82.9,
+  "bg": 64.2,
+  "ratio": 1.291,
+  "pixels": 27772
+ },
+ "piano": {
+  "v1_name": "piano",
+  "obj": 32.2,
+  "bg": 37.7,
+  "ratio": 0.853,
+  "pixels": 46214
+ },
+ "rice_cooker": {
+  "v1_name": "rice_cooker",
+  "obj": 80.2,
+  "bg": 51.3,
+  "ratio": 1.564,
+  "pixels": 7985
+ },
+ "bed": {
+  "v1_name": "bed",
+  "obj": 86.6,
+  "bg": 65.6,
+  "ratio": 1.321,
+  "pixels": 152485
+ },
+ "plant_pot": {
+  "v1_name": "plant_floor",
+  "obj": 41.5,
+  "bg": 46.6,
+  "ratio": 0.89,
+  "pixels": 6575
+ },
+ "microphone": {
+  "v1_name": "microphone",
+  "obj": 58.9,
+  "bg": 133.5,
+  "ratio": 0.441,
+  "pixels": 2114
+ },
+ "monitor": {
+  "v1_name": "monitor",
+  "obj": 28.8,
+  "bg": 117.5,
+  "ratio": 0.245,
+  "pixels": 19978
+ },
+ "desk_lamp": {
+  "v1_name": "desk_lamp",
+  "obj": 79.6,
+  "bg": 107.5,
+  "ratio": 0.741,
+  "pixels": 4940
+ },
+ "keyboard": {
+  "v1_name": "computer_keyboard",
+  "obj": 36.5,
+  "bg": 90.4,
+  "ratio": 0.404,
+  "pixels": 1978
+ },
+ "sketchbook": {
+  "v1_name": "sketchbook",
+  "obj": 210.4,
+  "bg": 87.1,
+  "ratio": 2.417,
+  "pixels": 4569
+ },
+ "mp3_player": {
+  "v1_name": "mp3_player",
+  "obj": 39.5,
+  "bg": 103.2,
+  "ratio": 0.382,
+  "pixels": 1212
+ },
+ "phone": {
+  "v1_name": "phone_black",
+  "obj": 56.8,
+  "bg": 80.2,
+  "ratio": 0.708,
+  "pixels": 751
+ },
+ "mug": {
+  "v1_name": "mug",
+  "obj": 119.1,
+  "bg": 49.9,
+  "ratio": 2.386,
+  "pixels": 1588
+ },
+ "plant_desk": {
+  "v1_name": "plant_desk",
+  "obj": 59.5,
+  "bg": 111.0,
+  "ratio": 0.536,
+  "pixels": 1862
+ },
+ "tv": {
+  "v1_name": "tv",
+  "obj": 21.8,
+  "bg": 88.7,
+  "ratio": 0.246,
+  "pixels": 20767
+ },
+ "game_console": {
+  "v1_name": "game_console",
+  "obj": 48.3,
+  "bg": 73.1,
+  "ratio": 0.661,
+  "pixels": 11607
+ },
+ "desk": {
+  "v1_name": "desk",
+  "obj": 83.2,
+  "bg": 62.3,
+  "ratio": 1.336,
+  "pixels": 30676
+ },
+ "cabinet": {
+  "v1_name": "bedside_cabinet",
+  "obj": 75.9,
+  "bg": 55.5,
+  "ratio": 1.368,
+  "pixels": 24934
+ },
+ "bookshelf": {
+  "v1_name": "bookshelf",
+  "obj": 41.2,
+  "bg": 55.2,
+  "ratio": 0.746,
+  "pixels": 93328
+ },
+ "easel": {
+  "v1_name": "easel",
+  "obj": 62.5,
+  "bg": 102.4,
+  "ratio": 0.61,
+  "pixels": 15036
+ },
+ "easel_painting": {
+  "v1_name": "easel_painting",
+  "obj": 170.2,
+  "bg": 85.7,
+  "ratio": 1.987,
+  "pixels": 12911
+ },
+ "plant_hanging": {
+  "v1_name": "plant_left",
+  "obj": 45.2,
+  "bg": 115.3,
+  "ratio": 0.392,
+  "pixels": 14312
+ },
+ "plant_right": {
+  "v1_name": "plant_right",
+  "obj": 79.2,
+  "bg": 112.7,
+  "ratio": 0.703,
+  "pixels": 17474
+ }
+}

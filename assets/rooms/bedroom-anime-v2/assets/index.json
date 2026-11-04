@@ -1,0 +1,508 @@
+{
+ "assets": [
+  {
+   "name": "basket",
+   "file": "basket.png",
+   "size": [
+    689,
+    866
+   ],
+   "source_crop": [
+    166,
+    77,
+    855,
+    943
+   ],
+   "visible": 351063,
+   "fill": 0.588,
+   "green_fringe": 0.0,
+   "bytes": 1057807
+  },
+  {
+   "name": "bed",
+   "file": "bed.png",
+   "size": [
+    1003,
+    576
+   ],
+   "source_crop": [
+    9,
+    266,
+    1012,
+    842
+   ],
+   "visible": 306090,
+   "fill": 0.53,
+   "green_fringe": 0.0,
+   "bytes": 649383
+  },
+  {
+   "name": "bookshelf",
+   "file": "bookshelf.png",
+   "size": [
+    509,
+    953
+   ],
+   "source_crop": [
+    257,
+    28,
+    766,
+    981
+   ],
+   "visible": 473682,
+   "fill": 0.977,
+   "green_fringe": 0.0,
+   "bytes": 686784
+  },
+  {
+   "name": "cabinet",
+   "file": "cabinet.png",
+   "size": [
+    640,
+    500
+   ],
+   "source_crop": [
+    192,
+    282,
+    832,
+    782
+   ],
+   "visible": 264421,
+   "fill": 0.826,
+   "green_fringe": 0.0,
+   "bytes": 387010
+  },
+  {
+   "name": "cat",
+   "file": "cat.png",
+   "size": [
+    897,
+    593
+   ],
+   "source_crop": [
+    64,
+    220,
+    961,
+    813
+   ],
+   "visible": 415295,
+   "fill": 0.781,
+   "green_fringe": 0.0,
+   "bytes": 993396
+  },
+  {
+   "name": "controller",
+   "file": "controller.png",
+   "size": [
+    823,
+    526
+   ],
+   "source_crop": [
+    104,
+    268,
+    927,
+    794
+   ],
+   "visible": 246441,
+   "fill": 0.569,
+   "green_fringe": 0.0,
+   "bytes": 404243
+  },
+  {
+   "name": "desk",
+   "file": "desk.png",
+   "size": [
+    988,
+    507
+   ],
+   "source_crop": [
+    18,
+    334,
+    1006,
+    841
+   ],
+   "visible": 184943,
+   "fill": 0.369,
+   "green_fringe": 0.0,
+   "bytes": 383859
+  },
+  {
+   "name": "desk_lamp",
+   "file": "desk_lamp.png",
+   "size": [
+    650,
+    936
+   ],
+   "source_crop": [
+    184,
+    22,
+    834,
+    958
+   ],
+   "visible": 189295,
+   "fill": 0.311,
+   "green_fringe": 0.0,
+   "bytes": 525767
+  },
+  {
+   "name": "easel",
+   "file": "easel.png",
+   "size": [
+    479,
+    1010
+   ],
+   "source_crop": [
+    266,
+    5,
+    745,
+    1015
+   ],
+   "visible": 211884,
+   "fill": 0.438,
+   "green_fringe": 0.0,
+   "bytes": 418771
+  },
+  {
+   "name": "easel_painting",
+   "file": "easel_painting.png",
+   "size": [
+    902,
+    714
+   ],
+   "source_crop": [
+    59,
+    142,
+    961,
+    856
+   ],
+   "visible": 632906,
+   "fill": 0.983,
+   "green_fringe": 0.0,
+   "bytes": 1374368
+  },
+  {
+   "name": "game_console",
+   "file": "game_console.png",
+   "size": [
+    718,
+    432
+   ],
+   "source_crop": [
+    154,
+    292,
+    872,
+    724
+   ],
+   "visible": 197604,
+   "fill": 0.637,
+   "green_fringe": 0.0,
+   "bytes": 286316
+  },
+  {
+   "name": "keyboard",
+   "file": "keyboard.png",
+   "size": [
+    1010,
+    544
+   ],
+   "source_crop": [
+    5,
+    268,
+    1015,
+    812
+   ],
+   "visible": 339031,
+   "fill": 0.617,
+   "green_fringe": 0.0,
+   "bytes": 648677
+  },
+  {
+   "name": "microphone",
+   "file": "microphone.png",
+   "size": [
+    498,
+    952
+   ],
+   "source_crop": [
+    276,
+    35,
+    774,
+    987
+   ],
+   "visible": 181820,
+   "fill": 0.384,
+   "green_fringe": 0.0,
+   "bytes": 495340
+  },
+  {
+   "name": "monitor",
+   "file": "monitor.png",
+   "size": [
+    806,
+    587
+   ],
+   "source_crop": [
+    108,
+    219,
+    914,
+    806
+   ],
+   "visible": 379914,
+   "fill": 0.803,
+   "green_fringe": 0.0,
+   "bytes": 641746
+  },
+  {
+   "name": "mouse",
+   "file": "mouse.png",
+   "size": [
+    552,
+    810
+   ],
+   "source_crop": [
+    266,
+    0,
+    818,
+    810
+   ],
+   "visible": 171728,
+   "fill": 0.384,
+   "green_fringe": 0.0,
+   "bytes": 343819
+  },
+  {
+   "name": "mp3_player",
+   "file": "mp3_player.png",
+   "size": [
+    731,
+    561
+   ],
+   "source_crop": [
+    159,
+    278,
+    890,
+    839
+   ],
+   "visible": 206443,
+   "fill": 0.503,
+   "green_fringe": 0.0,
+   "bytes": 540961
+  },
+  {
+   "name": "mug",
+   "file": "mug.png",
+   "size": [
+    669,
+    699
+   ],
+   "source_crop": [
+    216,
+    137,
+    885,
+    836
+   ],
+   "visible": 328290,
+   "fill": 0.702,
+   "green_fringe": 0.0,
+   "bytes": 340390
+  },
+  {
+   "name": "office_chair",
+   "file": "office_chair.png",
+   "size": [
+    561,
+    806
+   ],
+   "source_crop": [
+    233,
+    121,
+    794,
+    927
+   ],
+   "visible": 225561,
+   "fill": 0.499,
+   "green_fringe": 0.0,
+   "bytes": 327180
+  },
+  {
+   "name": "phone",
+   "file": "phone.png",
+   "size": [
+    860,
+    792
+   ],
+   "source_crop": [
+    83,
+    98,
+    943,
+    890
+   ],
+   "visible": 400466,
+   "fill": 0.588,
+   "green_fringe": 0.0,
+   "bytes": 534596
+  },
+  {
+   "name": "piano",
+   "file": "piano.png",
+   "size": [
+    777,
+    534
+   ],
+   "source_crop": [
+    130,
+    344,
+    907,
+    878
+   ],
+   "visible": 132882,
+   "fill": 0.32,
+   "green_fringe": 0.0,
+   "bytes": 424057
+  },
+  {
+   "name": "piano_bench",
+   "file": "piano_bench.png",
+   "size": [
+    517,
+    467
+   ],
+   "source_crop": [
+    248,
+    292,
+    765,
+    759
+   ],
+   "visible": 105411,
+   "fill": 0.437,
+   "green_fringe": 0.0,
+   "bytes": 250149
+  },
+  {
+   "name": "plant_hanging",
+   "file": "plant_hanging.png",
+   "size": [
+    349,
+    920
+   ],
+   "source_crop": [
+    352,
+    0,
+    701,
+    920
+   ],
+   "visible": 68432,
+   "fill": 0.213,
+   "green_fringe": 0.0,
+   "bytes": 525886
+  },
+  {
+   "name": "plant_pot",
+   "file": "plant_pot.png",
+   "size": [
+    412,
+    654
+   ],
+   "source_crop": [
+    295,
+    193,
+    707,
+    847
+   ],
+   "visible": 83861,
+   "fill": 0.311,
+   "green_fringe": 0.0,
+   "bytes": 439326
+  },
+  {
+   "name": "rice_cooker",
+   "file": "rice_cooker.png",
+   "size": [
+    686,
+    687
+   ],
+   "source_crop": [
+    168,
+    151,
+    854,
+    838
+   ],
+   "visible": 367660,
+   "fill": 0.78,
+   "green_fringe": 0.0,
+   "bytes": 439202
+  },
+  {
+   "name": "rug",
+   "file": "rug.png",
+   "size": [
+    1006,
+    474
+   ],
+   "source_crop": [
+    8,
+    293,
+    1014,
+    767
+   ],
+   "visible": 369446,
+   "fill": 0.775,
+   "green_fringe": 0.0,
+   "bytes": 1032167
+  },
+  {
+   "name": "side_table",
+   "file": "side_table.png",
+   "size": [
+    790,
+    780
+   ],
+   "source_crop": [
+    119,
+    127,
+    909,
+    907
+   ],
+   "visible": 236743,
+   "fill": 0.384,
+   "green_fringe": 0.0,
+   "bytes": 454210
+  },
+  {
+   "name": "sketchbook",
+   "file": "sketchbook.png",
+   "size": [
+    739,
+    738
+   ],
+   "source_crop": [
+    166,
+    150,
+    905,
+    888
+   ],
+   "visible": 406277,
+   "fill": 0.745,
+   "green_fringe": 0.0,
+   "bytes": 504678
+  },
+  {
+   "name": "tv",
+   "file": "tv.png",
+   "size": [
+    658,
+    453
+   ],
+   "source_crop": [
+    183,
+    321,
+    841,
+    774
+   ],
+   "visible": 257166,
+   "fill": 0.863,
+   "green_fringe": 0.0,
+   "bytes": 162322
+  }
+ ]
+}

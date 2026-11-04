@@ -1,0 +1,205 @@
+{
+ "cat": {
+  "pixels": 14233,
+  "p10": 31.2,
+  "median": 51.7,
+  "p90": 106.6,
+  "mean": 62.2
+ },
+ "piano_bench": {
+  "pixels": 29456,
+  "p10": 8.6,
+  "median": 51.0,
+  "p90": 140.3,
+  "mean": 58.7
+ },
+ "chair": {
+  "pixels": 29667,
+  "p10": 10.5,
+  "median": 22.0,
+  "p90": 47.4,
+  "mean": 29.0
+ },
+ "rug": {
+  "pixels": 27772,
+  "p10": 45.4,
+  "median": 82.9,
+  "p90": 190.4,
+  "mean": 98.4
+ },
+ "piano": {
+  "pixels": 46214,
+  "p10": 5.7,
+  "median": 32.2,
+  "p90": 136.7,
+  "mean": 55.0
+ },
+ "stool": {
+  "pixels": 10965,
+  "p10": 14.3,
+  "median": 33.0,
+  "p90": 58.7,
+  "mean": 35.9
+ },
+ "rice_cooker": {
+  "pixels": 7985,
+  "p10": 47.1,
+  "median": 80.2,
+  "p90": 164.1,
+  "mean": 88.3
+ },
+ "bed": {
+  "pixels": 152485,
+  "p10": 44.5,
+  "median": 86.6,
+  "p90": 181.0,
+  "mean": 99.5
+ },
+ "plant_floor": {
+  "pixels": 6575,
+  "p10": 21.5,
+  "median": 41.5,
+  "p90": 75.9,
+  "mean": 45.2
+ },
+ "microphone": {
+  "pixels": 2114,
+  "p10": 30.7,
+  "median": 58.9,
+  "p90": 167.1,
+  "mean": 78.2
+ },
+ "monitor": {
+  "pixels": 19978,
+  "p10": 12.9,
+  "median": 28.8,
+  "p90": 71.3,
+  "mean": 38.5
+ },
+ "desk_lamp": {
+  "pixels": 4940,
+  "p10": 40.4,
+  "median": 79.6,
+  "p90": 193.0,
+  "mean": 97.0
+ },
+ "computer_keyboard": {
+  "pixels": 1978,
+  "p10": 20.1,
+  "median": 36.5,
+  "p90": 99.9,
+  "mean": 47.4
+ },
+ "sketchbook": {
+  "pixels": 4569,
+  "p10": 116.0,
+  "median": 210.4,
+  "p90": 228.3,
+  "mean": 188.5
+ },
+ "mp3_player": {
+  "pixels": 1212,
+  "p10": 7.5,
+  "median": 39.5,
+  "p90": 117.9,
+  "mean": 57.4
+ },
+ "phone": {
+  "pixels": 481,
+  "p10": 33.1,
+  "median": 60.1,
+  "p90": 92.3,
+  "mean": 65.8
+ },
+ "phone_black": {
+  "pixels": 751,
+  "p10": 19.8,
+  "median": 56.8,
+  "p90": 91.8,
+  "mean": 59.6
+ },
+ "mug": {
+  "pixels": 1588,
+  "p10": 73.3,
+  "median": 119.1,
+  "p90": 171.7,
+  "mean": 122.2
+ },
+ "plant_desk": {
+  "pixels": 1862,
+  "p10": 36.8,
+  "median": 59.5,
+  "p90": 109.4,
+  "mean": 69.0
+ },
+ "tv": {
+  "pixels": 20767,
+  "p10": 17.0,
+  "median": 21.8,
+  "p90": 58.2,
+  "mean": 31.7
+ },
+ "game_console": {
+  "pixels": 11607,
+  "p10": 9.7,
+  "median": 48.3,
+  "p90": 162.4,
+  "mean": 70.3
+ },
+ "desk": {
+  "pixels": 30676,
+  "p10": 30.7,
+  "median": 83.2,
+  "p90": 178.6,
+  "mean": 95.1
+ },
+ "bedside_cabinet": {
+  "pixels": 24934,
+  "p10": 50.5,
+  "median": 75.9,
+  "p90": 127.1,
+  "mean": 81.4
+ },
+ "bookshelf": {
+  "pixels": 93328,
+  "p10": 20.6,
+  "median": 41.2,
+  "p90": 139.9,
+  "mean": 61.1
+ },
+ "easel": {
+  "pixels": 15036,
+  "p10": 36.6,
+  "median": 62.5,
+  "p90": 147.7,
+  "mean": 78.4
+ },
+ "easel_painting": {
+  "pixels": 12911,
+  "p10": 100.6,
+  "median": 170.2,
+  "p90": 208.6,
+  "mean": 162.1
+ },
+ "plant_left": {
+  "pixels": 14312,
+  "p10": 17.6,
+  "median": 45.2,
+  "p90": 126.7,
+  "mean": 60.5
+ },
+ "plant_right": {
+  "pixels": 17474,
+  "p10": 33.6,
+  "median": 79.2,
+  "p90": 156.3,
+  "mean": 86.5
+ },
+ "__room__": {
+  "pixels": 1327104,
+  "p10": 22.8,
+  "median": 81.9,
+  "p90": 192.3,
+  "mean": 94.5
+ }
+}

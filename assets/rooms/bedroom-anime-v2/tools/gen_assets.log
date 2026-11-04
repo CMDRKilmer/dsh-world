@@ -1,0 +1,382 @@
+=== 2026-11-04 11:48:50  28 objects ===
+[queued] bed             seed=20261104
+[queued] desk            seed=20269023
+[queued] office_chair    seed=20276942
+[queued] monitor         seed=20284861
+[queued] keyboard        seed=20292780
+[queued] mouse           seed=20300699
+[queued] microphone      seed=20308618
+[queued] mp3_player      seed=20316537
+[queued] phone           seed=20324456
+[queued] mug             seed=20332375
+[queued] desk_lamp       seed=20340294
+[queued] sketchbook      seed=20348213
+[queued] bookshelf       seed=20356132
+[queued] piano           seed=20364051
+[queued] piano_bench     seed=20371970
+[queued] easel           seed=20379889
+[queued] easel_painting  seed=20387808
+[queued] rice_cooker     seed=20395727
+[queued] side_table      seed=20403646
+[queued] game_console    seed=20411565
+[queued] controller      seed=20419484
+[queued] tv              seed=20427403
+[queued] cabinet         seed=20435322
+[queued] rug             seed=20443241
+[queued] plant_pot       seed=20451160
+[queued] plant_hanging   seed=20459079
+[queued] basket          seed=20466998
+[queued] cat             seed=20474917
+  ... 28 pending, 6s elapsed
+  ... 28 pending, 12s elapsed
+  ... 28 pending, 18s elapsed
+  ... 28 pending, 25s elapsed
+  ... 28 pending, 31s elapsed
+  ... 28 pending, 37s elapsed
+  ... 28 pending, 43s elapsed
+  ... 28 pending, 49s elapsed
+  ... 28 pending, 55s elapsed
+  ... 28 pending, 61s elapsed
+  ... 28 pending, 67s elapsed
+[done]   bed             aset_bed_00001_.png
+  ... 27 pending, 74s elapsed
+  ... 27 pending, 80s elapsed
+  ... 27 pending, 86s elapsed
+  ... 27 pending, 92s elapsed
+  ... 27 pending, 98s elapsed
+  ... 27 pending, 104s elapsed
+  ... 27 pending, 110s elapsed
+  ... 27 pending, 117s elapsed
+  ... 27 pending, 123s elapsed
+  ... 27 pending, 129s elapsed
+  ... 27 pending, 135s elapsed
+  ... 27 pending, 141s elapsed
+[done]   desk            aset_desk_00001_.png
+  ... 26 pending, 147s elapsed
+  ... 26 pending, 153s elapsed
+  ... 26 pending, 160s elapsed
+  ... 26 pending, 166s elapsed
+  ... 26 pending, 172s elapsed
+  ... 26 pending, 178s elapsed
+  ... 26 pending, 184s elapsed
+  ... 26 pending, 190s elapsed
+  ... 26 pending, 197s elapsed
+  ... 26 pending, 203s elapsed
+  ... 26 pending, 209s elapsed
+  ... 26 pending, 215s elapsed
+[done]   office_chair    aset_office_chair_00001_.png
+  ... 25 pending, 221s elapsed
+  ... 25 pending, 227s elapsed
+  ... 25 pending, 233s elapsed
+  ... 25 pending, 240s elapsed
+  ... 25 pending, 246s elapsed
+  ... 25 pending, 252s elapsed
+  ... 25 pending, 258s elapsed
+  ... 25 pending, 264s elapsed
+  ... 25 pending, 270s elapsed
+  ... 25 pending, 277s elapsed
+  ... 25 pending, 283s elapsed
+  ... 25 pending, 289s elapsed
+[done]   monitor         aset_monitor_00001_.png
+  ... 24 pending, 295s elapsed
+  ... 24 pending, 301s elapsed
+  ... 24 pending, 307s elapsed
+  ... 24 pending, 313s elapsed
+  ... 24 pending, 319s elapsed
+  ... 24 pending, 326s elapsed
+  ... 24 pending, 332s elapsed
+  ... 24 pending, 338s elapsed
+  ... 24 pending, 344s elapsed
+  ... 24 pending, 350s elapsed
+  ... 24 pending, 356s elapsed
+  ... 24 pending, 362s elapsed
+[done]   keyboard        aset_keyboard_00001_.png
+  ... 23 pending, 369s elapsed
+  ... 23 pending, 375s elapsed
+  ... 23 pending, 381s elapsed
+  ... 23 pending, 387s elapsed
+  ... 23 pending, 393s elapsed
+  ... 23 pending, 399s elapsed
+  ... 23 pending, 406s elapsed
+  ... 23 pending, 412s elapsed
+  ... 23 pending, 418s elapsed
+  ... 23 pending, 424s elapsed
+  ... 23 pending, 430s elapsed
+[done]   mouse           aset_mouse_00001_.png
+  ... 22 pending, 436s elapsed
+  ... 22 pending, 442s elapsed
+  ... 22 pending, 448s elapsed
+  ... 22 pending, 454s elapsed
+  ... 22 pending, 461s elapsed
+  ... 22 pending, 467s elapsed
+  ... 22 pending, 473s elapsed
+  ... 22 pending, 479s elapsed
+  ... 22 pending, 485s elapsed
+  ... 22 pending, 491s elapsed
+  ... 22 pending, 497s elapsed
+[done]   microphone      aset_microphone_00001_.png
+  ... 21 pending, 503s elapsed
+  ... 21 pending, 510s elapsed
+  ... 21 pending, 516s elapsed
+  ... 21 pending, 522s elapsed
+  ... 21 pending, 528s elapsed
+  ... 21 pending, 534s elapsed
+  ... 21 pending, 540s elapsed
+  ... 21 pending, 546s elapsed
+  ... 21 pending, 552s elapsed
+  ... 21 pending, 559s elapsed
+  ... 21 pending, 565s elapsed
+[done]   mp3_player      aset_mp3_player_00001_.png
+  ... 20 pending, 571s elapsed
+  ... 20 pending, 577s elapsed
+  ... 20 pending, 583s elapsed
+  ... 20 pending, 589s elapsed
+  ... 20 pending, 595s elapsed
+  ... 20 pending, 601s elapsed
+  ... 20 pending, 607s elapsed
+  ... 20 pending, 613s elapsed
+  ... 20 pending, 620s elapsed
+  ... 20 pending, 626s elapsed
+  ... 20 pending, 632s elapsed
+[done]   phone           aset_phone_00001_.png
+  ... 19 pending, 638s elapsed
+  ... 19 pending, 644s elapsed
+  ... 19 pending, 650s elapsed
+  ... 19 pending, 656s elapsed
+  ... 19 pending, 662s elapsed
+  ... 19 pending, 668s elapsed
+  ... 19 pending, 674s elapsed
+  ... 19 pending, 681s elapsed
+  ... 19 pending, 687s elapsed
+  ... 19 pending, 693s elapsed
+  ... 19 pending, 699s elapsed
+[done]   mug             aset_mug_00001_.png
+  ... 18 pending, 705s elapsed
+  ... 18 pending, 711s elapsed
+  ... 18 pending, 717s elapsed
+  ... 18 pending, 723s elapsed
+  ... 18 pending, 729s elapsed
+  ... 18 pending, 736s elapsed
+  ... 18 pending, 742s elapsed
+  ... 18 pending, 748s elapsed
+  ... 18 pending, 754s elapsed
+  ... 18 pending, 760s elapsed
+  ... 18 pending, 766s elapsed
+[done]   desk_lamp       aset_desk_lamp_00001_.png
+  ... 17 pending, 772s elapsed
+  ... 17 pending, 778s elapsed
+  ... 17 pending, 784s elapsed
+  ... 17 pending, 791s elapsed
+  ... 17 pending, 797s elapsed
+  ... 17 pending, 803s elapsed
+  ... 17 pending, 809s elapsed
+  ... 17 pending, 815s elapsed
+  ... 17 pending, 821s elapsed
+  ... 17 pending, 827s elapsed
+  ... 17 pending, 833s elapsed
+[done]   sketchbook      aset_sketchbook_00001_.png
+  ... 16 pending, 839s elapsed
+  ... 16 pending, 845s elapsed
+  ... 16 pending, 852s elapsed
+  ... 16 pending, 858s elapsed
+  ... 16 pending, 864s elapsed
+  ... 16 pending, 870s elapsed
+  ... 16 pending, 876s elapsed
+  ... 16 pending, 882s elapsed
+  ... 16 pending, 888s elapsed
+  ... 16 pending, 894s elapsed
+  ... 16 pending, 900s elapsed
+  ... 16 pending, 906s elapsed
+[done]   bookshelf       aset_bookshelf_00001_.png
+  ... 15 pending, 912s elapsed
+  ... 15 pending, 919s elapsed
+  ... 15 pending, 925s elapsed
+  ... 15 pending, 931s elapsed
+  ... 15 pending, 937s elapsed
+  ... 15 pending, 943s elapsed
+  ... 15 pending, 949s elapsed
+  ... 15 pending, 955s elapsed
+  ... 15 pending, 961s elapsed
+  ... 15 pending, 967s elapsed
+  ... 15 pending, 973s elapsed
+[done]   piano           aset_piano_00001_.png
+  ... 14 pending, 979s elapsed
+  ... 14 pending, 986s elapsed
+  ... 14 pending, 992s elapsed
+  ... 14 pending, 998s elapsed
+  ... 14 pending, 1004s elapsed
+  ... 14 pending, 1010s elapsed
+  ... 14 pending, 1016s elapsed
+  ... 14 pending, 1022s elapsed
+  ... 14 pending, 1028s elapsed
+  ... 14 pending, 1034s elapsed
+  ... 14 pending, 1040s elapsed
+[done]   piano_bench     aset_piano_bench_00001_.png
+  ... 13 pending, 1046s elapsed
+  ... 13 pending, 1052s elapsed
+  ... 13 pending, 1058s elapsed
+  ... 13 pending, 1065s elapsed
+  ... 13 pending, 1071s elapsed
+  ... 13 pending, 1077s elapsed
+  ... 13 pending, 1083s elapsed
+  ... 13 pending, 1089s elapsed
+  ... 13 pending, 1095s elapsed
+  ... 13 pending, 1101s elapsed
+  ... 13 pending, 1107s elapsed
+  ... 13 pending, 1113s elapsed
+  ... 13 pending, 1119s elapsed
+  ... 13 pending, 1125s elapsed
+[done]   easel           aset_easel_00001_.png
+  ... 12 pending, 1131s elapsed
+  ... 12 pending, 1137s elapsed
+  ... 12 pending, 1143s elapsed
+  ... 12 pending, 1149s elapsed
+  ... 12 pending, 1156s elapsed
+  ... 12 pending, 1162s elapsed
+  ... 12 pending, 1168s elapsed
+  ... 12 pending, 1174s elapsed
+  ... 12 pending, 1180s elapsed
+  ... 12 pending, 1186s elapsed
+  ... 12 pending, 1192s elapsed
+[done]   easel_painting  aset_easel_painting_00001_.png
+  ... 11 pending, 1198s elapsed
+  ... 11 pending, 1204s elapsed
+  ... 11 pending, 1210s elapsed
+  ... 11 pending, 1216s elapsed
+  ... 11 pending, 1223s elapsed
+  ... 11 pending, 1229s elapsed
+  ... 11 pending, 1235s elapsed
+  ... 11 pending, 1241s elapsed
+  ... 11 pending, 1247s elapsed
+  ... 11 pending, 1253s elapsed
+  ... 11 pending, 1259s elapsed
+  ... 11 pending, 1265s elapsed
+[done]   rice_cooker     aset_rice_cooker_00001_.png
+  ... 10 pending, 1271s elapsed
+  ... 10 pending, 1277s elapsed
+  ... 10 pending, 1283s elapsed
+  ... 10 pending, 1289s elapsed
+  ... 10 pending, 1295s elapsed
+  ... 10 pending, 1301s elapsed
+  ... 10 pending, 1307s elapsed
+  ... 10 pending, 1313s elapsed
+  ... 10 pending, 1319s elapsed
+  ... 10 pending, 1326s elapsed
+  ... 10 pending, 1332s elapsed
+[done]   side_table      aset_side_table_00001_.png
+  ... 9 pending, 1338s elapsed
+  ... 9 pending, 1344s elapsed
+  ... 9 pending, 1350s elapsed
+  ... 9 pending, 1356s elapsed
+  ... 9 pending, 1362s elapsed
+  ... 9 pending, 1368s elapsed
+  ... 9 pending, 1374s elapsed
+  ... 9 pending, 1380s elapsed
+  ... 9 pending, 1386s elapsed
+  ... 9 pending, 1392s elapsed
+  ... 9 pending, 1398s elapsed
+  ... 9 pending, 1404s elapsed
+[done]   game_console    aset_game_console_00001_.png
+  ... 8 pending, 1410s elapsed
+  ... 8 pending, 1416s elapsed
+  ... 8 pending, 1422s elapsed
+  ... 8 pending, 1428s elapsed
+  ... 8 pending, 1435s elapsed
+  ... 8 pending, 1441s elapsed
+  ... 8 pending, 1447s elapsed
+  ... 8 pending, 1453s elapsed
+  ... 8 pending, 1459s elapsed
+  ... 8 pending, 1465s elapsed
+  ... 8 pending, 1471s elapsed
+  ... 8 pending, 1477s elapsed
+[done]   controller      aset_controller_00001_.png
+  ... 7 pending, 1483s elapsed
+  ... 7 pending, 1489s elapsed
+  ... 7 pending, 1495s elapsed
+  ... 7 pending, 1501s elapsed
+  ... 7 pending, 1507s elapsed
+  ... 7 pending, 1513s elapsed
+  ... 7 pending, 1519s elapsed
+  ... 7 pending, 1525s elapsed
+  ... 7 pending, 1531s elapsed
+  ... 7 pending, 1537s elapsed
+  ... 7 pending, 1543s elapsed
+  ... 7 pending, 1549s elapsed
+[done]   tv              aset_tv_00001_.png
+  ... 6 pending, 1555s elapsed
+  ... 6 pending, 1561s elapsed
+  ... 6 pending, 1567s elapsed
+  ... 6 pending, 1573s elapsed
+  ... 6 pending, 1579s elapsed
+  ... 6 pending, 1585s elapsed
+  ... 6 pending, 1592s elapsed
+  ... 6 pending, 1598s elapsed
+  ... 6 pending, 1604s elapsed
+  ... 6 pending, 1610s elapsed
+  ... 6 pending, 1616s elapsed
+[done]   cabinet         aset_cabinet_00001_.png
+  ... 5 pending, 1622s elapsed
+  ... 5 pending, 1628s elapsed
+  ... 5 pending, 1634s elapsed
+  ... 5 pending, 1640s elapsed
+  ... 5 pending, 1646s elapsed
+  ... 5 pending, 1652s elapsed
+  ... 5 pending, 1658s elapsed
+  ... 5 pending, 1664s elapsed
+  ... 5 pending, 1670s elapsed
+  ... 5 pending, 1676s elapsed
+  ... 5 pending, 1682s elapsed
+  ... 5 pending, 1688s elapsed
+[done]   rug             aset_rug_00001_.png
+  ... 4 pending, 1694s elapsed
+  ... 4 pending, 1700s elapsed
+  ... 4 pending, 1706s elapsed
+  ... 4 pending, 1712s elapsed
+  ... 4 pending, 1718s elapsed
+  ... 4 pending, 1724s elapsed
+  ... 4 pending, 1730s elapsed
+  ... 4 pending, 1736s elapsed
+  ... 4 pending, 1742s elapsed
+  ... 4 pending, 1748s elapsed
+  ... 4 pending, 1754s elapsed
+[done]   plant_pot       aset_plant_pot_00001_.png
+  ... 3 pending, 1760s elapsed
+  ... 3 pending, 1766s elapsed
+  ... 3 pending, 1772s elapsed
+  ... 3 pending, 1778s elapsed
+  ... 3 pending, 1784s elapsed
+  ... 3 pending, 1790s elapsed
+  ... 3 pending, 1796s elapsed
+  ... 3 pending, 1802s elapsed
+  ... 3 pending, 1808s elapsed
+  ... 3 pending, 1814s elapsed
+  ... 3 pending, 1820s elapsed
+  ... 3 pending, 1826s elapsed
+  ... 3 pending, 1832s elapsed
+[done]   plant_hanging   aset_plant_hanging_00001_.png
+  ... 2 pending, 1838s elapsed
+  ... 2 pending, 1844s elapsed
+  ... 2 pending, 1850s elapsed
+  ... 2 pending, 1856s elapsed
+  ... 2 pending, 1862s elapsed
+  ... 2 pending, 1868s elapsed
+  ... 2 pending, 1874s elapsed
+  ... 2 pending, 1880s elapsed
+  ... 2 pending, 1887s elapsed
+  ... 2 pending, 1893s elapsed
+  ... 2 pending, 1899s elapsed
+  ... 2 pending, 1905s elapsed
+[done]   basket          aset_basket_00001_.png
+  ... 1 pending, 1911s elapsed
+  ... 1 pending, 1917s elapsed
+  ... 1 pending, 1923s elapsed
+  ... 1 pending, 1929s elapsed
+  ... 1 pending, 1935s elapsed
+  ... 1 pending, 1941s elapsed
+  ... 1 pending, 1947s elapsed
+  ... 1 pending, 1953s elapsed
+  ... 1 pending, 1959s elapsed
+  ... 1 pending, 1965s elapsed
+  ... 1 pending, 1971s elapsed
+[done]   cat             aset_cat_00001_.png
+=== finished 28/28 in 1977s ===

@@ -1,0 +1,39 @@
+{
+ "canvas": [
+  1536,
+  864
+ ],
+ "objects": 28,
+ "covered_fraction": 0.4144,
+ "visible": {
+  "rug": 0.605,
+  "plant_hanging": 1.0,
+  "bookshelf": 0.82,
+  "desk": 0.591,
+  "piano": 0.94,
+  "piano_bench": 1.0,
+  "plant_pot": 1.0,
+  "easel": 0.695,
+  "bed": 0.748,
+  "cabinet": 0.895,
+  "office_chair": 0.98,
+  "side_table": 0.974,
+  "basket": 1.0,
+  "monitor": 1.0,
+  "microphone": 0.854,
+  "desk_lamp": 1.0,
+  "mp3_player": 1.0,
+  "sketchbook": 1.0,
+  "keyboard": 1.0,
+  "mouse": 1.0,
+  "mug": 1.0,
+  "phone": 1.0,
+  "tv": 0.862,
+  "game_console": 0.918,
+  "controller": 1.0,
+  "easel_painting": 1.0,
+  "cat": 1.0,
+  "rice_cooker": 1.0
+ },
+ "warnings": []
+}
