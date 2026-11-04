@@ -184,19 +184,19 @@
    "name": "game_console",
    "file": "game_console.png",
    "size": [
-    718,
-    432
+    913,
+    383
    ],
    "source_crop": [
-    154,
-    292,
-    872,
-    724
+    56,
+    322,
+    969,
+    705
    ],
-   "visible": 197604,
-   "fill": 0.637,
+   "visible": 231700,
+   "fill": 0.663,
    "green_fringe": 0.0,
-   "bytes": 286316
+   "bytes": 292206
   },
   {
    "name": "keyboard",

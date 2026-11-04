@@ -12,6 +12,7 @@ Usage:  python cutout_assets.py [--only name,name]
 import argparse
 import json
 import os
+import re
 
 import numpy as np
 from PIL import Image, ImageDraw
@@ -113,8 +114,11 @@ def main():
     if args.only:
         names = [s.strip() for s in args.only.split(",") if s.strip()]
     else:
-        names = sorted(f[len("aset_"):-len("_00001_.png")] for f in os.listdir(OUT)
-                       if f.startswith("aset_") and f.endswith("_00001_.png"))
+        # aset_<name>_v2_00001_.png is a regeneration of an object that was already accepted
+        # into assets/ under its plain name; re-cutting it would add a duplicate asset.
+        names = sorted(n for n in (f[len("aset_"):-len("_00001_.png")] for f in os.listdir(OUT)
+                                   if f.startswith("aset_") and f.endswith("_00001_.png"))
+                       if not re.search(r"_v\d+$", n))
     entries = []
     for n in names:
         e = process(n)
