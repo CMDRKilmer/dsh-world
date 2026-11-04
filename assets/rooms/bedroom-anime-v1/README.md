@@ -95,6 +95,7 @@ nsfw, worst quality, bad anatomy, watermark, text, signature, photorealistic, 3d
 | `layers/NN_<name>.png` | 单个对象，裁切到自身包围盒，RGBA |
 | `layers/manifest.json` | 画布尺寸、源图、每个图层的 z / 文件名 / 裁剪框 / 可见像素数 / SAM3 分数 / 命中 phrase |
 | `layers/preview.png` | 全部图层的接触表（棋盘格＝透明） |
+| `layers/partition-overlay.png` | 分区检查图：每个像素按归属图层上色并标名（不是交付资产，是核对证据） |
 | `room-layered.psd` | 29 层 PSD（`room` 在最底，其余按 z 由后到前），PhotoCraft 0.20.1 生成 |
 | `tools/split_layers_sam3.py` | SAM 3 拆分脚本（生成 layers/ 全部内容） |
 | `tools/build_preview.py` | 接触表预览 |
